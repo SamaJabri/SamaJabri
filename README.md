@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @SamaJabri
 - 👀 I’m interested in Frontend Web Developement
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently Using React/Next.js
 - 📫 Telegram Username: @Samajabri
 
 <!---
