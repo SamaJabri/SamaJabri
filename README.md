@@ -1,7 +1,6 @@
 - 👋 Hello, I’m @SamaJabri
 - 👀 I’m interested in Frontend Web Developement
 - 🌱 I’m currently Using React/Next.js
-- 📫 Telegram Username: @Samajabri
 
 <!---
 SamaJabri/SamaJabri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
